@@ -1,0 +1,7 @@
+aaaaa
+bbbbbbb
+cccccccc
+
+
+
+xxxxxxxxsend input.txt 10 7
